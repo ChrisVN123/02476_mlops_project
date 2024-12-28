@@ -2,3 +2,9 @@
     remote = storage
 ['remote "storage"']
     url = gdrive://1bfLGBv6fWG9hVhBnoX98GBZt8bsrganw
+    gdrive_client_id = 191484132835-uaq5j3ucam3om1a63g3khr5n285h22uv.apps.googleusercontent.com
+    gdrive_client_secret = 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
+    #gdrive_use_service_account = true
+    #gdrive_service_account_json_file_path = ../mlops-446108-eaf7ce9657eb.json
+    #gdrive_service_account_user_email = "christianvanell@icloud.com"
+
